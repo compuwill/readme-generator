@@ -16,7 +16,7 @@ This nodeJS program will automatically generate a README file with a set of give
 
 To install this, simply clone the repository.
 
-## Installation
+## Usage
 
 To use the program, please open a bash terminal in the directory of where you cloned the repository. Then, run index.js. You will be prompted several questions in the terminal and once you have completely filled out the questionaire your README will be generated in the OUTPUT folder with the name of your project.
 
